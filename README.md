@@ -16,7 +16,7 @@ Skills:
 - Vue.js
 - HTML
 - Bootstrap (Framework)
-- Cascading Style Sheets (CSS)
+- Cascading Style Sheets (CSS)<br>
 <span class="currently-working">🔭 I’m currently working on Web Development.</span>
 
 
