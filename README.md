@@ -4,8 +4,19 @@ To make the most out of the opportunities I receive and to utilize my full poten
 thinker and developer. Always eager to learn new things and face new challenges. A team player
 and motivator.
 
-Skills: Object-Oriented Programming (OOP)/ SQL/ jQuery/ AJAX/ PHP/Laravel/JavaScript/Vue.js /HTML/Bootstrap (Framework)/ Cascading Style Sheets (CSS)
+Skills: 
 
+- Object-Oriented Programming (OOP)
+- SQL
+- jQuery
+- AJAX
+- PHP
+- Laravel
+- JavaScript
+- Vue.js
+- HTML
+- Bootstrap (Framework)
+- Cascading Style Sheets (CSS)
 - 🔭 I’m currently working on Web Development. 
 
 
